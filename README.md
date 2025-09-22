@@ -1,3 +1,10 @@
+## 🎥 Screencast Video
+
+Here is the link to my 3–5 minute screencast demonstrating the Library Management System:
+
+[▶️ Watch the Screencast](https://go.screenpal.com/watch/cTQ3e5nDiZH)
+
+
 # 📚 Library Management System
 
 A simple Python project that demonstrates **object-oriented programming** and **modular design**.  
